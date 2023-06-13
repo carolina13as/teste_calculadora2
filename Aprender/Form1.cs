@@ -92,6 +92,7 @@ namespace Aprender
             label4.Text = Convert.ToString(rt); 
             label6.Text = Convert.ToString(erro);
             m.Show();
+            
         }
 
         private void label4_Click(object sender, EventArgs e)
