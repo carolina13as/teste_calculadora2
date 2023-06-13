@@ -43,6 +43,7 @@ namespace Aprender
         {
             int rt = 0;
             string erro = "";
+            // teste do git pull
             try
             {
                 if (radioButton3.Checked == true)
