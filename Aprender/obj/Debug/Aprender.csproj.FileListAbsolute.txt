@@ -1,0 +1,12 @@
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Aprender\Aprender\bin\Debug\Aprender.exe.config
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Aprender\Aprender\bin\Debug\Aprender.exe
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Aprender\Aprender\bin\Debug\Aprender.pdb
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Aprender\Aprender\obj\Debug\Aprender.csproj.AssemblyReference.cache
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Aprender\Aprender\obj\Debug\Aprender.csproj.SuggestedBindingRedirects.cache
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Aprender\Aprender\obj\Debug\Aprender.Form1.resources
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Aprender\Aprender\obj\Debug\Aprender.Properties.Resources.resources
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Aprender\Aprender\obj\Debug\Aprender.csproj.GenerateResource.cache
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Aprender\Aprender\obj\Debug\Aprender.csproj.CoreCompileInputs.cache
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Aprender\Aprender\obj\Debug\Aprender.exe
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Aprender\Aprender\obj\Debug\Aprender.pdb
+C:\Users\carol\OneDrive\Documentos\ifro\tarefas do 2º\Po2\Aprender\Aprender\obj\Debug\Aprender.Resultado.resources
